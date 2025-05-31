@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "BRIDGE RECTIFIER (1PHASE 800V 10A)",
+        "PN": "1801-TS10K80-ND",
+        "MF": "Taiwan Semiconductor Corporation"
+      },
+      "MID": "MID20289",
+      "MD": "TS10K80 is bridge rectifier with 10A 400-1000V rated @ Single phase || Switching mode power supply (SMPS) || Reference: TBA || Location: TBA",
+      "MT": "Electronic Material",
+      "MQNT": 18,
+      "MCost": 106.49,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20289%2Fmain%2FTS10K40%20SERIES_F2101.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20289/main/WhatsApp Image 2025-05-31 at 4.08.44 PM.jpeg",
+        "https://raw.githubusercontent.com/mylab2025/MID20289/main/WhatsApp Image 2025-05-31 at 4.08.44 PM (1).jpeg"
+      ]
+    }
+  ]
+}
